@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\Class-1\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Reza\Game Projects\C++\Basic\Class-1\Class.h(22): warning C4715: 'Class::getName': not all control paths return a value
+  Class-1.vcxproj -> D:\Reza\Game Projects\C++\Basic\Class-1\x64\Debug\Class-1.exe
